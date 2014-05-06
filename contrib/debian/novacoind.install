@@ -1,0 +1,2 @@
+debian/bin/quantumd usr/bin
+src/quantumd usr/lib/quantum

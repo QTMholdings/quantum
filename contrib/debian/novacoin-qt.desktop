@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Quantum
+Comment=Quantum P2P Cryptocurrency
+Comment[fr]=Quantum, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Quantum, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/quantum-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/quantum;
+Categories=Office;
